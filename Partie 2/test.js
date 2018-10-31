@@ -1,0 +1,1 @@
+var test = require('./test'); // Fait appel à test.js (même dossier)
